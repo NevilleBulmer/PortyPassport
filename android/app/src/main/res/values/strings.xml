@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PortyPassport</string>
+    <string name="facebook_app_id">456682775447027</string>
+    <string name="fb_login_protocol_scheme">fb456682775447027</string>
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+</resources>
+
